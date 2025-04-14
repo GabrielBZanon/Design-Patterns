@@ -1,7 +1,7 @@
 # Design-Patterns
 Padrões Arquiteturais
 
-```
+
 # 🏭 Projeto: Exemplo de Factory Pattern em JavaScript
 
 Este projeto demonstra como utilizar o **Factory Pattern (Padrão de Fábrica)** em JavaScript para criar objetos de forma organizada, flexível e reutilizável.
