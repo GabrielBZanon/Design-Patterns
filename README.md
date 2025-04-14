@@ -2,7 +2,7 @@
 Padrões Arquiteturais
 
 
-# 🏭 Projeto: Exemplo de Factory Pattern em JavaScript
+# Exemplo de Factory Pattern em JavaScript
 
 Este projeto demonstra como utilizar o **Factory Pattern (Padrão de Fábrica)** em JavaScript para criar objetos de forma organizada, flexível e reutilizável.
 
@@ -33,6 +33,7 @@ O objetivo é mostrar como aplicar o **Design Pattern de Criação** chamado `Fa
 
 O **Factory Pattern** é um padrão de projeto que fornece uma **interface para criar objetos em uma superclasse**, mas **permite que as subclasses decidam qual classe instanciar**.
 
+> 💡 Exemplo lúdico: Pense em uma fábrica de pizzas: você escolhe o sabor, e a fábrica sabe como montar e entregar. Você não precisa saber como fazer a massa, molho, etc.
 > 💡 Exemplo real: Você faz um pedido de "livro" e a fábrica cria um objeto do tipo `Livro` automaticamente, sem você precisar saber como isso é feito.
 
 ---
