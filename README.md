@@ -119,8 +119,8 @@ console.log(livro);
 ---
 # Curiosidade:
 Factory Pattern se assemelha mais ao Builder Pattern, pois ambos são voltados à criação de objetos e ajudam a desacoplar a construção do uso final deles.
+O Factory Pattern cria objetos prontos com base em parâmetros, enquanto o Builder Pattern permite montar objetos complexos passo a passo de forma personalizada.
 
-Se quiser, posso montar um exemplo onde Factory e Builder são usados juntos pra você ver como eles se complementam. Quer?
 
 ## 👨‍💻 Autores
 **Gabriel Araújo**
