@@ -117,12 +117,14 @@ console.log(livro);
 
 ---
 
-## 👨‍💻 Autor
-
+## 👨‍💻 Autores
+**Gabriel Araújo**
 **Gabriel B. Zanon**  
+**Kauê H. C. Fidelis**  
+**Lucas G. Giachetto**  
+**Marcos V. Oliveira**  
 📍 Amparo – SP  
-💼 Estudante de Análise e Desenvolvimento de Sistemas  
-💬 Apaixonado por boas práticas, design patterns e software limpo.
+💼 Estudantes de Análise e Desenvolvimento de Sistemas SENAI 
 
 ---
 
@@ -131,8 +133,3 @@ console.log(livro);
 Este projeto está licenciado sob a **MIT License**.  
 Sinta-se livre para usar, estudar e adaptar!
 
----
-
-```
-
-Se quiser, posso gerar esse arquivo para você em `.md`, ou já adaptar ao seu projeto atual. Quer que eu personalize com os nomes reais das suas classes, pastas e objetivos?
